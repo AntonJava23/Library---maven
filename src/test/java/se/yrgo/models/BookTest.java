@@ -22,5 +22,4 @@ class BookTest {
 		Book book3 = new Book(3, "Cosmos", "Carl Sagan", "3045603456705", "gg", 456);
 		assertNotEquals(true, book2.equals(book3));
 	}
-
 }

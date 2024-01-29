@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4015c9d-4cff-4ada-91ff-1e8a986191f3" name="Changes" comment="Kodade färdigt testAddBook">
+    <list default="true" id="b4015c9d-4cff-4ada-91ff-1e8a986191f3" name="Changes" comment="Finishing tests in bookcatalog and making some in booktest.">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/yrgo/models/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/yrgo/models/Loan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/yrgo/ui/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/se/yrgo/models/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/yrgo/models/BookCatalogTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/se/yrgo/models/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/yrgo/models/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/yrgo/models/LoanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/yrgo/models/LoanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookCatalogTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.LoanTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.BookCatalogTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.BookTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.LoanTest.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +51,11 @@
     "JUnit.BookCatalogTest.testFindBookWithExtraSpaces.executor": "Run",
     "JUnit.BookTest.test2EqualBooks.executor": "Run",
     "JUnit.BookTest.test2NonEqualBooks.executor": "Run",
+    "JUnit.LoanTest.testDueDate.executor": "Run",
     "Maven.library [clean].executor": "Run",
     "Maven.library [compile].executor": "Run",
     "Maven.library [package].executor": "Run",
+    "Maven.library [site].executor": "Run",
     "Maven.library [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,23 +85,7 @@
       <recent name="se.yrgo" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BookTest.test2EqualBooks">
-    <configuration name="BookCatalogTest.testFindBookIgnoringCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="library" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="se.yrgo.models.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="se.yrgo.models" />
-      <option name="MAIN_CLASS_NAME" value="se.yrgo.models.BookCatalogTest" />
-      <option name="METHOD_NAME" value="testFindBookIgnoringCase" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LoanTest.testDueDate">
     <configuration name="BookCatalogTest.testFindBookThatDoesntExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="library" />
       <extension name="coverage">
@@ -156,13 +150,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoanTest.testDueDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.yrgo.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.yrgo.models" />
+      <option name="MAIN_CLASS_NAME" value="se.yrgo.models.LoanTest" />
+      <option name="METHOD_NAME" value="testDueDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LoanTest.testDueDate" />
         <item itemvalue="JUnit.BookTest.test2EqualBooks" />
         <item itemvalue="JUnit.BookTest.test2NonEqualBooks" />
         <item itemvalue="JUnit.BookCatalogTest.testFindBookThatDoesntExist" />
         <item itemvalue="JUnit.BookCatalogTest.testFindBookWithExtraSpaces" />
-        <item itemvalue="JUnit.BookCatalogTest.testFindBookIgnoringCase" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +195,7 @@
       <workItem from="1706272033044" duration="498000" />
       <workItem from="1706281710851" duration="3397000" />
       <workItem from="1706524669535" duration="33000" />
-      <workItem from="1706528934375" duration="4625000" />
+      <workItem from="1706528934375" duration="7461000" />
     </task>
     <task id="LOCAL-00001" summary="Fixade imports">
       <option name="closed" value="true" />
@@ -203,7 +213,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706284731185</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finishing tests in bookcatalog and making some in booktest.">
+      <option name="closed" value="true" />
+      <created>1706533910441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706533910441</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finishing tests in bookcatalog and making some in booktest.">
+      <option name="closed" value="true" />
+      <created>1706533960627</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706533960627</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finishing tests in bookcatalog and making some in booktest.">
+      <option name="closed" value="true" />
+      <created>1706533988161</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706533988161</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +246,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixade imports" />
     <MESSAGE value="Kodade färdigt testAddBook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kodade färdigt testAddBook" />
+    <MESSAGE value="Finishing tests in bookcatalog and making some in booktest." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finishing tests in bookcatalog and making some in booktest." />
   </component>
 </project>

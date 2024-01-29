@@ -1,0 +1,12 @@
+// (Compile)
+mvn compile
+// (Ta bort klass filerna)
+mvn clean
+// (Javadoc)
+mvn javadoc:javadoc
+// (Rapport för testerna)
+
+// (Testning)
+mvn test
+// (Paketering)
+mvn package
