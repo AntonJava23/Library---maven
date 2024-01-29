@@ -1,6 +1,6 @@
 package se.yrgo.models;
 
-import utilities.GenderType;
+import se.yrgo.utilities.GenderType;
 
 import java.util.Date;
 import java.util.GregorianCalendar;

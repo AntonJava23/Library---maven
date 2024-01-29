@@ -1,7 +1,7 @@
 package se.yrgo.ui;
 
 import se.yrgo.models.*;
-import utilities.GenderType;
+import se.yrgo.utilities.GenderType;
 
 public class Main {
 
