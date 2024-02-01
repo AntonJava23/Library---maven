@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"se.yrgo.models"},{"l":"se.yrgo.ui"},{"l":"se.yrgo.utilities"}];updateSearchResults();

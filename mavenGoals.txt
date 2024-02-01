@@ -1,14 +1,15 @@
-// (compile)
+// (Kompilera)
 mvn compile
 
 // (Ta bort klass filerna)
 mvn clean
 
-// (Javadoc)
+// (Generera javadoc)
 mvn javadoc:javadoc
 
 // (Rapport för testerna)
-
+mvn test (När tester har körts genereras en mapp under target (target/surefire-reports)
+            där i ligger rapporter för varje test)
 
 // (Testning)
 mvn test

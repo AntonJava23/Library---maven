@@ -4,11 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4015c9d-4cff-4ada-91ff-1e8a986191f3" name="Changes" comment="Skrev klart kod för testDueDate samt skrev en mavengoals textfil">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b4015c9d-4cff-4ada-91ff-1e8a986191f3" name="Changes" comment="La till javadoc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mavenGoals.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mavenGoals.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery-ui.overrides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookCatalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookNotFoundException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Customer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Loan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanAlreadyExistsException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanNotFoundException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Material.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookCatalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookNotFoundException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Customer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Loan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanAlreadyExistsException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanNotFoundException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Material.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/class-use/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/GenderType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/LoanStatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/GenderType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/LoanStatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookCatalogTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookCatalogTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.LoanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.LoanTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.BookCatalogTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.BookCatalogTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.LoanTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.LoanTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +253,7 @@
       <workItem from="1706524669535" duration="33000" />
       <workItem from="1706528934375" duration="7796000" />
       <workItem from="1706609934938" duration="16000" />
-      <workItem from="1706788643015" duration="422000" />
+      <workItem from="1706788643015" duration="1223000" />
     </task>
     <task id="LOCAL-00001" summary="Fixade imports">
       <option name="closed" value="true" />
@@ -238,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706536720339</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="La till javadoc">
+      <option name="closed" value="true" />
+      <created>1706792562256</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706792562257</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +322,8 @@
     <MESSAGE value="Kodade färdigt testAddBook" />
     <MESSAGE value="Finishing tests in bookcatalog and making some in booktest." />
     <MESSAGE value="Skrev klart kod för testDueDate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Skrev klart kod för testDueDate" />
+    <MESSAGE value="La till javadoc" />
+    <option name="LAST_COMMIT_MESSAGE" value="La till javadoc" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
