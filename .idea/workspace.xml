@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4015c9d-4cff-4ada-91ff-1e8a986191f3" name="Changes" comment="Finishing tests in bookcatalog and making some in booktest.">
+    <list default="true" id="b4015c9d-4cff-4ada-91ff-1e8a986191f3" name="Changes" comment="Skrev klart kod för testDueDate samt skrev en mavengoals textfil">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/se/yrgo/models/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/yrgo/models/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/se/yrgo/models/LoanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/yrgo/models/LoanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookCatalogTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.LoanTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.BookCatalogTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.BookTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.LoanTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mavenGoals.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mavenGoals.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +49,10 @@
     "Maven.library [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/anton/Documents/projektarbete_med_agila_metoder/JUMPY_BIRB",
+    "last_opened_file_path": "C:/Users/anton/Documents/Utvecklingsverktyg/maven_projects/inämning2/library",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,7 +62,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -195,7 +186,9 @@
       <workItem from="1706272033044" duration="498000" />
       <workItem from="1706281710851" duration="3397000" />
       <workItem from="1706524669535" duration="33000" />
-      <workItem from="1706528934375" duration="7461000" />
+      <workItem from="1706528934375" duration="7796000" />
+      <workItem from="1706609934938" duration="16000" />
+      <workItem from="1706788643015" duration="422000" />
     </task>
     <task id="LOCAL-00001" summary="Fixade imports">
       <option name="closed" value="true" />
@@ -237,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706533988161</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Skrev klart kod för testDueDate">
+      <option name="closed" value="true" />
+      <created>1706536720339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706536720339</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +248,11 @@
     <MESSAGE value="Fixade imports" />
     <MESSAGE value="Kodade färdigt testAddBook" />
     <MESSAGE value="Finishing tests in bookcatalog and making some in booktest." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finishing tests in bookcatalog and making some in booktest." />
+    <MESSAGE value="Skrev klart kod för testDueDate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skrev klart kod för testDueDate" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

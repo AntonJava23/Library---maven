@@ -49,7 +49,7 @@
                     <archive>
                         <manifest>
                             <mainClass>
-                                se.yrgo.ui
+                                se.yrgo.ui.Main
                             </mainClass>
                         </manifest>
                     </archive>
