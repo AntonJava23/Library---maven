@@ -6,6 +6,75 @@
   <component name="ChangeListManager">
     <list default="true" id="b4015c9d-4cff-4ada-91ff-1e8a986191f3" name="Changes" comment="Skrev färdigt mavenGoals filen.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/yrgo/models/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/yrgo/models/BookCatalogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/library-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery-ui.overrides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookCatalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookNotFoundException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Customer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Loan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanAlreadyExistsException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanNotFoundException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Material.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookCatalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookNotFoundException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Customer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Loan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanAlreadyExistsException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanNotFoundException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Material.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/class-use/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/GenderType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/LoanStatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/GenderType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/LoanStatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookCatalogTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookCatalogTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.BookTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.LoanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.models.LoanTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.BookCatalogTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.BookCatalogTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.LoanTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.models.LoanTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/se/yrgo/models/BookCatalogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/se/yrgo/models/BookCatalogTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +142,7 @@
       <recent name="se.yrgo" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LoanTest.testDueDate">
+  <component name="RunManager" selected="JUnit.BookCatalogTest.testFindBookWithExtraSpaces">
     <configuration name="BookCatalogTest.testFindBookThatDoesntExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="library" />
       <extension name="coverage">
@@ -156,18 +225,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookCatalogTest.testFindBookWithExtraSpaces" />
         <item itemvalue="JUnit.LoanTest.testDueDate" />
         <item itemvalue="JUnit.BookTest.test2EqualBooks" />
         <item itemvalue="JUnit.BookTest.test2NonEqualBooks" />
         <item itemvalue="JUnit.BookCatalogTest.testFindBookThatDoesntExist" />
-        <item itemvalue="JUnit.BookCatalogTest.testFindBookWithExtraSpaces" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
       </set>
     </attachedChunks>
   </component>
@@ -187,6 +256,7 @@
       <workItem from="1706609934938" duration="16000" />
       <workItem from="1706788643015" duration="1526000" />
       <workItem from="1706793540767" duration="148000" />
+      <workItem from="1707734595915" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="Fixade imports">
       <option name="closed" value="true" />
@@ -274,6 +344,21 @@
     <MESSAGE value="La till javadoc" />
     <MESSAGE value="Skrev färdigt mavenGoals filen." />
     <option name="LAST_COMMIT_MESSAGE" value="Skrev färdigt mavenGoals filen." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/se/yrgo/models/BookCatalogTest.java</url>
+          <line>46</line>
+          <properties class="se.yrgo.models.BookCatalogTest" method="testFindBookWithExtraSpaces">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
